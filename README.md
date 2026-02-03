@@ -60,5 +60,10 @@ The project uses the following tables:
 
 •	Music Store / Chinook-style dataset
 
+## Conclusion
+This project demonstrates a strong understanding of SQL fundamentals and analytical thinking.
+It is suitable for Data Analyst / SQL Developer beginners and showcases hands-on practice with real-world style questions.
 
-________________________________________
+
+
+
